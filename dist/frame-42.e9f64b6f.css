@@ -1,0 +1,22 @@
+.ng-nhp-ngay {
+  color: var(--color-lightcoral);
+}
+
+.bn-c-container {
+  font-weight: 600;
+  position: absolute;
+  top: 0;
+  left: calc(50% - 142px);
+}
+
+.bn-c-ti-khong-ng-nh-parent {
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: #4d4d4db3;
+  font-family: var(--font-inter);
+  width: 100%;
+  height: 18px;
+  position: relative;
+}
+/*# sourceMappingURL=frame-42.e9f64b6f.css.map */

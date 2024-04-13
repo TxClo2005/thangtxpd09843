@@ -1,0 +1,17 @@
+.qun-mt-khu {
+  font-weight: 600;
+  position: absolute;
+  top: 0;
+  left: calc(50% - 61px);
+}
+
+.qun-mt-khu-parent {
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-600);
+  font-family: var(--font-inter);
+  width: 100%;
+  height: 18px;
+  position: relative;
+}
+/*# sourceMappingURL=frame-45.a37c2591.css.map */
